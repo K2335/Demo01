@@ -16,7 +16,7 @@ namespace Teht04
 
             if (age < 18) Console.WriteLine("Underage");
             if (age >= 18 && age <= 65) Console.WriteLine("Adult");
-            else Console.WriteLine("Senior");
+            else Console.WriteLine("Seniori");
         }
     }
 }
