@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht08", "Teht08\Teht08.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht09", "Teht09\Teht09.csproj", "{4A5B9EFF-0341-4915-96EF-41FF7BC8D5A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht10", "Teht10\Teht10.csproj", "{6ED78582-530A-4927-9307-E354C3AE12B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,18 @@ Global
 		{4A5B9EFF-0341-4915-96EF-41FF7BC8D5A8}.Release|x64.Build.0 = Release|Any CPU
 		{4A5B9EFF-0341-4915-96EF-41FF7BC8D5A8}.Release|x86.ActiveCfg = Release|Any CPU
 		{4A5B9EFF-0341-4915-96EF-41FF7BC8D5A8}.Release|x86.Build.0 = Release|Any CPU
+		{6ED78582-530A-4927-9307-E354C3AE12B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED78582-530A-4927-9307-E354C3AE12B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED78582-530A-4927-9307-E354C3AE12B3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6ED78582-530A-4927-9307-E354C3AE12B3}.Debug|x64.Build.0 = Debug|Any CPU
+		{6ED78582-530A-4927-9307-E354C3AE12B3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6ED78582-530A-4927-9307-E354C3AE12B3}.Debug|x86.Build.0 = Debug|Any CPU
+		{6ED78582-530A-4927-9307-E354C3AE12B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED78582-530A-4927-9307-E354C3AE12B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED78582-530A-4927-9307-E354C3AE12B3}.Release|x64.ActiveCfg = Release|Any CPU
+		{6ED78582-530A-4927-9307-E354C3AE12B3}.Release|x64.Build.0 = Release|Any CPU
+		{6ED78582-530A-4927-9307-E354C3AE12B3}.Release|x86.ActiveCfg = Release|Any CPU
+		{6ED78582-530A-4927-9307-E354C3AE12B3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
