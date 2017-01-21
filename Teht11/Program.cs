@@ -10,6 +10,13 @@ namespace Teht11
     {
         static void Main(string[] args)
         {
+            Console.Write("Anna luku: ");
+            int a = int.Parse(Console.ReadLine());
+            for (int i = 0; i < a; i++)
+                Console.WriteLine("*");
+                
+                
+
         }
     }
 }
