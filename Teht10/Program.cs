@@ -23,8 +23,10 @@ namespace Teht10
             taulukko[8] = 100;
 
 
-            for (int i = 0; i < taulukko.Length; i++) Console.Write(taulukko[i]);
-
+            for (int i = 0; i < taulukko.Length; i++)
+                if (taulukko[i] % 2 == 0)
+                    Console.Write("HEP");
+                else Console.Write(taulukko[i]);
         }
     }
 }
