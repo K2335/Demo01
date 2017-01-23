@@ -26,12 +26,59 @@ namespace Teht14
             int arvo5 = int.Parse(Console.ReadLine());
 
             int[] numbers = new[] { arvo1, arvo2, arvo3, arvo4, arvo5 };
+
             Console.Write("Nollia: ");
-
-            
-            foreach (var item in numbers)
-                Console.WriteLine("*");
-
+            for (int i = 0; i < 5; i++)
+            {
+                if (numbers[i] == 0) { 
+                    Console.Write("*");
+                }
+            }
+            Console.WriteLine();
+            Console.Write("Ykkosia: ");
+            for (int i = 0; i < 5; i++)
+            {
+                if (numbers[i] == 1)
+                {
+                    Console.Write("*");
+                }
+            }
+            Console.WriteLine();
+            Console.Write("Kakkosia: ");
+            for (int i = 0; i < 5; i++)
+            {
+                if (numbers[i] == 2)
+                {
+                    Console.Write("*");
+                }
+            }
+            Console.WriteLine();
+            Console.Write("Kolmosia: ");
+            for (int i = 0; i < 5; i++)
+            {
+                if (numbers[i] == 3)
+                {
+                    Console.Write("*");
+                }
+            }
+            Console.WriteLine();
+            Console.Write("Nelosia: ");
+            for (int i = 0; i < 5; i++)
+            {
+                if (numbers[i] == 4)
+                {
+                    Console.Write("*");
+                }
+            }
+            Console.WriteLine();
+            Console.Write("Vitosia: ");
+            for (int i = 0; i < 5; i++)
+            {
+                if (numbers[i] == 5)
+                {
+                    Console.Write("*");
+                }
+            }
         }
     }
 }
